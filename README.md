@@ -8,5 +8,5 @@ Node-Red: Windows - https://nodered.org/docs/getting-started/windows <br />
 Node-Red: Mac/linux - https://nodered.org/docs/getting-started/local#installing-with-npm
 
 # Running Locally
-Mac/Linux: https://nodered.org/docs/getting-started/local#running
+Mac/Linux: https://nodered.org/docs/getting-started/local#running <br />
 Windows: https://nodered.org/docs/getting-started/windows#running-on-windows
