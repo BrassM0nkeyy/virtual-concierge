@@ -5,4 +5,4 @@ Documentation on how to create a virtual concierge. To do this we will use a Ras
 for running locally <br />
 Node.js: https://nodejs.org/en/download/ <br />
 Node-Red: Windows - https://nodered.org/docs/getting-started/windows <br />
-          Mac/linux - https://nodered.org/docs/getting-started/local#installing-with-npm
+Node-Red: Mac/linux - https://nodered.org/docs/getting-started/local#installing-with-npm
