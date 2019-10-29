@@ -6,3 +6,7 @@ for running locally <br />
 Node.js: https://nodejs.org/en/download/ <br />
 Node-Red: Windows - https://nodered.org/docs/getting-started/windows <br />
 Node-Red: Mac/linux - https://nodered.org/docs/getting-started/local#installing-with-npm
+
+# Running Locally
+Mac/Linux: https://nodered.org/docs/getting-started/local#running
+Windows: https://nodered.org/docs/getting-started/windows#running-on-windows
