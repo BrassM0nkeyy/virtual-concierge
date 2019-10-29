@@ -1,6 +1,7 @@
 # VirtualConcierge
 Documentation on how to create a virtual concierge. To do this we will use a Raspberry-pi running Node-RED and leverage the built-in libraries to create a flow-based program. This program will communicate with IBM Watson virtual assistant that will communicate with the user.
 
+explanation-example - folder that contains multiple Node-red flows that we used in the demo <br />
 arthur-no-raspberry.json - is a flow you can inport into Node-Red to test out how the concierge works <br />
 flow.json - is a flow for the Raspberry-Pi to test out how the concierge works <br />
 skill-Arthur-Answers-Door-Bell-Skill.json - is the concierge skill for Watson assistant 
